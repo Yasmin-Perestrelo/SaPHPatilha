@@ -51,6 +51,5 @@
     </fieldset>
     </section>
     
-    <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
   </body>
 </html>
