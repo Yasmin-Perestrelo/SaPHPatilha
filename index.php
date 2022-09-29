@@ -46,16 +46,12 @@
 
     <main>
       <section>
-      <div>
-      <h1>Venha descobrir<br> o sapato perfeito<br> pra você!</h1>
-      </div>
+        <div>
+          <h1>Venha descobrir<br> o sapato perfeito<br> pra você!</h1>
+        </div>
       </section>
     </main>
 
-    <footer>
-  
-  </footer>
-    
     <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
   </body>
 </html>
